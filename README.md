@@ -3,6 +3,3 @@
 This is my [flipkart](https://devevivek.github.io/Flipkart-Clone/).
 
 #DeveVivek
-
-
-
